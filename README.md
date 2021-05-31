@@ -1,2 +1,2 @@
-# to-do-kist
+# to-do-list
 ds project
